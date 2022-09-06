@@ -1,5 +1,5 @@
 # URL Shortening Service
-This is a URL shortening service which takes long URLs and return short URLs to redirect to.
+This is a URL shortening service which takes long URLs and return short URLs to redirect to. Spring boot v2.7.3 used as backend and react used as frontend.
 # REST API Documentation
 Link to the API Documentation is https://documenter.getpostman.com/view/23040426/VUxKT9My
 
